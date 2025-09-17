@@ -1,5 +1,5 @@
 - 👋 oi, eu sou @BIXPART
-- 👀 eu tenho interece em linguagens de progrmaçao como JavaScript, HTML
+- 👀 eu tenho interece em linguagens de progrmaçao como JavaScript, HTML e CSS
 - 🌱 atualmente estou aprendendo html e JavaScript
 - 💞️ estou interesado em colaborções que precisarem que automatizem algma tarefa e corrigir problemas
 - 📫 como entrar em contato comigo? por gmail : pelo hotmail : bixpart@hotmail.com
